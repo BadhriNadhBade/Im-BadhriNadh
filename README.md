@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Im-BadhriNadh
 - 👀 I’m interested in ...IDK
-- 🌱 I’m currently learning ...Hello World!
-- 💞️ I’m looking to collaborate on ...Anything 
+- 🌱 I’m currently learning ...web-Development
+- 💞️ I’m looking to collaborate on ...? 
 - 📫 You can reach me ...@mr-badhri(Instagram)
 
 <!---
