@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Im-BadhriNadh
+- 👋 Hi, I’m @BadhriNadh
 - 👀 I’m interested in ...IDK
 - 🌱 I’m currently learning ...web-Development
 - 💞️ I’m looking to collaborate on ...? 
